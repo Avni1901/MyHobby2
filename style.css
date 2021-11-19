@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    padding-top: 30px ;
+
+}
+
+#hobby {
+    color: black;
+    font-family: serif ;
+      text-shadow: 2px 2px yellow;
+
+   
+}
+
+.imgs {
+border-radius: 80%;
+width: 400px;
+height: 500px;
+   
+}
+
+#intro {
+background-color: aquamarine ;
+margin-bottom: 60px ;
+    height: 700px ;
+}
+
+#info {
+    background-color: crimson ;
+    height: 350px ;
+    padding-top: 30px ;
+    padding-bottom: 30px ;
+    padding-right: 30px ;
+    padding-left: 30px ;
+}
+
+.faverouite {
+    background-color: darkorchid ;
+    padding-top: 30px ;
+    padding-bottom: 30px ;
+    padding-right: 30px ;
+    padding-left: 30px ;
+    height: 350px ;
+    margin-bottom: 60px ;
+     margin-top: 60px ;
+    
+}
